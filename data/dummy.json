@@ -1,0 +1,184 @@
+{
+    "current": {
+        "lat": 52.1781,
+        "lon": 4.8626,
+        "dt": 1627103326,
+        "tz_offset": 7200,
+        "clouds": 0,
+        "uvi": 0.2,
+        "weather": "clear"
+    },
+    "minutely": {
+        "dt_start": 1627103340,
+        "pops": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    "hourly": [
+        {
+            "dt": 1627102800,
+            "clouds": 0,
+            "pop": 0,
+            "weather": "clear",
+            "uvi": 0.2
+        },
+        {
+            "dt": 1627106400,
+            "clouds": 19,
+            "pop": 0,
+            "weather": "clouds",
+            "uvi": 0.62
+        },
+        {
+            "dt": 1627110000,
+            "clouds": 39,
+            "pop": 0,
+            "weather": "clouds",
+            "uvi": 1.33
+        },
+        {
+            "dt": 1627113600,
+            "clouds": 59,
+            "pop": 0,
+            "weather": "clouds",
+            "uvi": 2.42
+        },
+        {
+            "dt": 1627117200,
+            "clouds": 79,
+            "pop": 0,
+            "weather": "clouds",
+            "uvi": 3.7
+        },
+        {
+            "dt": 1627120800,
+            "clouds": 99,
+            "pop": 0,
+            "weather": "clouds",
+            "uvi": 3.24
+        },
+        {
+            "dt": 1627124400,
+            "clouds": 99,
+            "pop": 0,
+            "weather": "clouds",
+            "uvi": 3.74
+        },
+        {
+            "dt": 1627128000,
+            "clouds": 99,
+            "pop": 0.01,
+            "weather": "clouds",
+            "uvi": 3.83
+        },
+        {
+            "dt": 1627131600,
+            "clouds": 100,
+            "pop": 0.03,
+            "weather": "clouds",
+            "uvi": 2.85
+        },
+        {
+            "dt": 1627135200,
+            "clouds": 100,
+            "pop": 0.03,
+            "weather": "clouds",
+            "uvi": 2.28
+        },
+        {
+            "dt": 1627138800,
+            "clouds": 100,
+            "pop": 0.04,
+            "weather": "clouds",
+            "uvi": 1.59
+        },
+        {
+            "dt": 1627142400,
+            "clouds": 100,
+            "pop": 0.15,
+            "weather": "clouds",
+            "uvi": 0.84
+        },
+        {
+            "dt": 1627146000,
+            "clouds": 100,
+            "pop": 0.28,
+            "weather": "clouds",
+            "uvi": 0.41
+        },
+        {
+            "dt": 1627149600,
+            "clouds": 100,
+            "pop": 0.32,
+            "weather": "rain",
+            "uvi": 0.15
+        },
+        {
+            "dt": 1627153200,
+            "clouds": 80,
+            "pop": 0.87,
+            "weather": "rain",
+            "uvi": 0
+        }
+    ]
+}
